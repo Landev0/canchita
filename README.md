@@ -1,2 +1,2 @@
-# canchita
+# canchitas
 Proyecto-uni
